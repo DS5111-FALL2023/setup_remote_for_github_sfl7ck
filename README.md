@@ -38,6 +38,8 @@ user.email=efrainolivaresuva@gmail.com
 * Send a link in Canvas to your repository
 * add a screenshot **TO YOUR README.md** of an `ls` showing the files in `~/.ssh`, followed by the `git config...` and `ssh -T...` commands showing the expected input.  Look at [github docs image markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images)
 
+<img width="470" alt="work" src="https://github.com/DS5111-FALL2023/setup_remote_for_github_sfl7ck/assets/111696716/05089114-1e18-4420-8f10-1eec162ae97b"> 
+
 # Quiz - 10 points
 * A quiz will follow wich will focus just on this content.  It's `open book` or `open internet`.
 
@@ -46,3 +48,4 @@ user.email=efrainolivaresuva@gmail.com
     - checks out one of your repositories, that would fully set up your remote for going straight to work on a new machine.
     - completes the setup by remotely installing `make` and the python env package that was missing
     - **OR** anything you find useful... load data you would use in a project, take the next step and trigger a makefile in a cloned repo to setup the python virtual environment, etc etc.
+<img width="470" alt="work" src="https://github.com/DS5111-FALL2023/setup_remote_for_github_sfl7ck/assets/111696716/1eaf6992-b8ad-4d1e-958e-b4b8225f1882">
